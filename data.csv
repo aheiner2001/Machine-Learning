@@ -1,0 +1,12 @@
+focus,shot_type,ball_power_percent,swing_style,spin,shot_depth,outcome
+drives,drive,80,hammer,topspin,deep,W
+drives,drive,75,flat,flat,deep,W
+patience,dink,25,soft,underspin,short,W
+patience,dink,30,soft,underspin,short,F
+aggressive,drive,85,western,topspin,deep,W
+defensive,block,45,flat,flat,mid,W
+aggressive,volley,70,hammer,flat,mid,F
+patience,dink,20,soft,underspin,short,W
+aggressive,overhead,95,hammer,flat,deep,W
+defensive,reset,35,soft,underspin,short,W
+drives,drive,80,western,topspin,deep,F
