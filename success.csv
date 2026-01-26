@@ -2,8 +2,8 @@ scripture_study,morning_prayers,tempting_thoughts,casual_use,school_day,num_urge
 no,no,no,yes,no,0,L
 no,no,no,yes,no,0,L
 no,yes,no,yes,no,0,W
+no,no,yes,yes,no,0,W
+yes,no,no,yes,yes,2,W
 no,no,no,yes,no,0,W
-no,no,no,yes,no,0,W
-no,no,no,yes,no,0,W
-no,no,no,yes,no,0,W
+yes,yes,yes,yes,yes,2,W
 no,no,no,no,no,10,W
