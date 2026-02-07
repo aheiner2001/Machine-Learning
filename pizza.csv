@@ -2,3 +2,4 @@ rest_time_before_fridge_hours,ball_tightness,time_in_fridge_days,bake_day_sit_ti
 1,normal,3,4,room temp,no,chewy/tough,6
 1,normal,4,3,room temp,no,chewy,6
 3,normal,3,2,room temp,no,airy,8
+1,normal,3,2,oven_light,no,dense,5
