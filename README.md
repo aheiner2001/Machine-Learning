@@ -24,19 +24,9 @@ This repository is a **living learning notebook**. The goal is not to be complet
 
 ---
 ## Colab
-
-
-
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
-lermeafajfajdslafjdsalfjasdjfsjdljflsajfasfls
+Pizza Model Practice(Decision Tree): https://colab.research.google.com/drive/1gro-MONV-lkBpFovKur2dB-iIMttfZQa#scrollTo=O9_npPMEOJBn
+Bank Model(Random Rainforest):
+Housing Prices(XGBoost):
 
 
 
