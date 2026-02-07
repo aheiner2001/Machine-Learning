@@ -1,3 +1,3 @@
-Date,Time_in_Fridge,Rest_Time_Before_Fridge,Yeast_Amount,Bake_Day_Sit_Time,Bake_Day_Sit_Method,Bake_Day_Reball,Ball_Tightness,Notes,Result_Texture,Result_Chewy,Result_Oven_Spring,Result_Overall
-2026-02-05,3,0.5,0.25,0.5,Sprayed tin,Yes,3 folds, fairly tight,Dough was firm and slightly chewy,Firm,Some,Low,Needs improvement
-2026-02-06,3,4,0.25,4,Room temperature,No,2 folds, medium tight,Dough had slightly better oven spring,Firm,Some,Medium,Better but not perfect
+date,time_in_fridge_days,rest_time_before_fridge_hours,yeast_amount_tsp,bake_day_sit_time_hours,bake_day_sit_method,bake_day_reball,ball_folds,ball_tightness,notes,result_texture,result_chewiness,result_oven_spring,result_overall
+2026-02-05,3,0.5,0.25,2,oven_light,yes,3,tight,"firm dough, low spring",firm,medium,low,meh
+2026-02-06,3,4,0.25,4,room_temp,no,2,medium,"slightly better than yesterday",firm,medium,medium,okay
