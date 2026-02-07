@@ -10,9 +10,9 @@ def main():
             
             writer.writerow(row_data)
             
-            subprocess.run(['git', 'add', 'pizza.csv'], check=True)
-            subprocess.run(['git', 'commit', '-m', 'Add pizza data entry'], check=True)
-            subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+            # subprocess.run(['git', 'add', 'pizza.csv'], check=True)
+            # subprocess.run(['git', 'commit', '-m', 'Add pizza data entry'], check=True)
+            # subprocess.run(['git', 'push', 'origin', 'main'], check=True)
             
     except KeyboardInterrupt:
         print("\nEntry cancelled.")
