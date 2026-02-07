@@ -1,2 +1,2 @@
-date,time_in_fridge_days,rest_time_before_fridge_hours,yeast_amount_tsp,bake_day_sit_time_hours,bake_day_sit_method,bake_day_reball,ball_folds,ball_tightness,notes,result_texture,result_chewiness,result_oven_spring,result_overall
-1221323,3 hours,2323,34,523,4234,42,423,5,234,234,234,234,234
+yeast_amount_tsp,rest_time_before_fridge_hours,ball_tightness,time_in_fridge_days,bake_day_sit_time_hours,bake_day_sit_method,ball_folds,bake_day_reball,result_texture,result_chewiness,result_oven_spring,result_overall,notes
+df,f,as,f,asf,as,f,asf,,f,s,f,

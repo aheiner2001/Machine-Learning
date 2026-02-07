@@ -1,7 +1,7 @@
 import csv
 with open('pizza.csv','w', newline='') as csvfile:
 
-    field_names = ['date','time_in_fridge_days','rest_time_before_fridge_hours','yeast_amount_tsp','bake_day_sit_time_hours','bake_day_sit_method','bake_day_reball','ball_folds','ball_tightness','notes','result_texture','result_chewiness','result_oven_spring','result_overall']
+    field_names = [ 'yeast_amount_tsp', 'rest_time_before_fridge_hours','ball_tightness', 'time_in_fridge_days', 'bake_day_sit_time_hours', 'bake_day_sit_method', 'ball_folds',  'bake_day_reball', 'result_texture', 'result_chewiness', 'result_oven_spring', 'result_overall', 'notes']
     writer = csv.DictWriter(csvfile, fieldnames=field_names)
 
     writer.writeheader()
