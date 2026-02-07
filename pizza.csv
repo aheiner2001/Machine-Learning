@@ -1,4 +1,31 @@
 yeast_amount_tsp,rest_time_before_fridge_hours,ball_tightness,time_in_fridge_days,bake_day_sit_time_hours,bake_day_sit_method,ball_folds,bake_day_reball,result_texture,result_chewiness,result_oven_spring,result_overall,notes
-
-normal,2,normal,4,4,room temp,na,no,chewy,sfjks,adf,sadf,asdf
-a,a,a,a,a,a,a,a,a,a,a,a,a
+0.75,1.5,normal,3,4,room temp,4,no,soft,medium,medium,good,baseline dough
+0.5,2,loose,4,5,room temp,3,no,tender,low,low,ok,underproofed feel
+1.0,1,very tight,2,2,warm oven light,6,yes,chewy,high,high,very good,strong gluten
+0.6,3,normal,5,4,room temp,4,no,airy,medium,medium,good,long cold ferment
+0.8,0.5,very tight,3,1,warm oven light,6,yes,chewy,high,medium,good,short bench rest
+0.4,2.5,loose,4,6,room temp,2,no,flat,low,low,bad,too little yeast
+0.9,1,normal,3,3,room temp,4,no,balanced,medium,medium,good,solid bake
+1.1,0.5,very tight,1,2,warm oven light,7,yes,chewy,high,high,excellent,fast fermentation
+0.7,4,normal,5,5,room temp,4,no,soft,medium,medium,good,slow relaxed dough
+0.5,1.5,loose,3,4,room temp,3,no,tender,low,medium,ok,slightly weak structure
+0.85,2,normal,4,3,room temp,4,no,airy,medium,high,very good,nice spring
+1.0,1,very tight,2,3,warm oven light,6,yes,chewy,high,high,excellent,strong oven spring
+0.6,3,normal,4,5,room temp,4,no,balanced,medium,medium,good,even fermentation
+0.45,2,loose,5,6,room temp,2,no,flat,low,low,poor,overfermented
+0.9,1.5,normal,3,4,room temp,4,no,soft,medium,medium,good,classic NY style
+1.05,0.75,very tight,2,2,warm oven light,6,yes,chewy,high,high,excellent,aggressive dough
+0.7,3,normal,4,5,room temp,4,no,airy,medium,medium,good,consistent bake
+0.55,2.5,loose,4,6,room temp,3,no,tender,low,medium,ok,weaker gluten
+0.95,1,normal,3,3,room temp,4,no,balanced,medium,high,very good,good rise
+1.1,0.5,very tight,1,1.5,warm oven light,7,yes,chewy,high,high,excellent,very active yeast
+0.8,2,normal,4,4,room temp,4,no,soft,medium,medium,good,reliable
+0.65,3.5,normal,5,5,room temp,4,no,airy,medium,medium,good,slow ferment
+0.5,2,loose,3,5,room temp,3,no,tender,low,medium,ok,less spring
+0.9,1.5,normal,3,4,room temp,4,no,balanced,medium,high,very good,strong bake
+1.0,1,very tight,2,2,warm oven light,6,yes,chewy,high,high,excellent,tight ball paid off
+0.75,2.5,normal,4,5,room temp,4,no,soft,medium,medium,good,relaxed dough
+0.6,3,loose,5,6,room temp,3,no,flat,low,low,poor,overproofed
+0.85,1.5,normal,3,3,room temp,4,no,airy,medium,high,very good,nice balance
+1.05,0.75,very tight,2,2,warm oven light,6,yes,chewy,high,high,excellent,high energy dough
+0.7,3,normal,4,5,room temp,4,no,balanced,medium,medium,good,steady results
