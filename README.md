@@ -11,7 +11,7 @@ This repository is a **living learning notebook**. The goal is not to be complet
 
 ## 📚 Table of Contents
 
-* [Colab Projects] (#colab)
+* [Colab Projects](#colab)
 * [Decision Trees](#decision-trees)
 * [Random Forests](#random-forests)
 * [Interpreting Models](#interpreting-models)
