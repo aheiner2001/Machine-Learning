@@ -1,2 +1,36 @@
 yeast_amount,rest_time_before_fridge_hours,ball_tightness,time_in_fridge_days,bake_day_sit_time_hours,bake_day_sit_method,bake_day_reball,result_texture,result_overall
 normal,1,normal,3,4,room temp,no,chewy/tough,6
+low,2,loose,4,5,room temp,no,light/chewy,8
+low,1,normal,3,4,room temp,no,chewy,7
+normal,2,normal,3,3,room temp,no,chewy,7
+high,0.5,tight,2,2,warm oven light,yes,dense,4
+low,3,loose,5,5,room temp,no,airy,9
+normal,1,normal,4,4,room temp,no,light/chewy,8
+low,2,loose,4,6,room temp,no,airy,9
+normal,1,normal,3,3,room temp,no,chewy,7
+high,0.5,tight,2,2,room temp,yes,dense,4
+low,2,normal,4,5,room temp,no,light,8
+normal,1,normal,3,4,room temp,no,chewy,7
+low,3,loose,5,6,room temp,no,airy,9
+normal,1,normal,3,3,warm oven light,no,chewy/tough,6
+low,2,loose,4,5,room temp,no,light/chewy,8
+low,2,loose,4,5,room temp,no,light/chewy,8
+normal,1,normal,3,3,room temp,no,chewy,7
+high,0.5,tight,2,2,warm oven light,yes,dense,4
+low,3,loose,5,6,room temp,no,airy,9
+normal,2,normal,4,4,room temp,no,light,8
+low,1,normal,3,4,room temp,no,chewy,7
+low,2,loose,4,6,room temp,no,airy,9
+normal,1,normal,3,3,warm oven light,no,chewy/tough,6
+high,0.5,tight,2,2,room temp,yes,dense,5
+low,3,loose,5,5,room temp,no,airy,9
+normal,2,normal,4,4,room temp,no,light/chewy,8
+low,1,loose,3,5,room temp,no,light,8
+normal,1,tight,3,3,room temp,no,chewy,6
+low,2,loose,4,6,room temp,no,airy,9
+high,0.5,normal,2,3,warm oven light,yes,dense,5
+normal,2,normal,4,4,room temp,no,light,8
+low,3,loose,5,6,room temp,no,airy,9
+normal,1,normal,3,4,room temp,no,chewy,7
+low,2,loose,4,5,room temp,no,light/chewy,8
+high,1,tight,2,3,room temp,yes,dense,5
