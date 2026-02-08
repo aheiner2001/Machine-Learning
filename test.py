@@ -13,7 +13,7 @@ def main():
             # subprocess.run(['git', 'add', 'pizza.csv'], check=True)
             # subprocess.run(['git', 'commit', '-m', 'Add pizza data entry'], check=True)
             # subprocess.run(['git', 'push', 'origin', 'main'], check=True)
-            
+            # git push
     except KeyboardInterrupt:
         print("\nEntry cancelled.")
 
