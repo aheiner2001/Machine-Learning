@@ -4,7 +4,7 @@ import subprocess
 def main():
     try:
         with open('pizza.csv', 'a', newline='') as csvfile:
-            field_names = ['rest_time_before_fridge_hours','time_in_fridge_days', 'bake_day_sit_time_hours', 'bake_day_sit_method', 'result_texture','result_overall']
+            field_names = ['rest_time_before_fridge_hours','time_in_fridge_days', 'bake_day_sit_time_hours', 'bake_day_sit_method', 'result_texture','result_overall','notes']
             writer = csv.DictWriter(csvfile, fieldnames=field_names)
             row_data = {field: input(f"Enter {field}: ") for field in field_names}
             
