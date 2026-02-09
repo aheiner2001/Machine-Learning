@@ -1,6 +1,6 @@
-rest_time_before_fridge_hours,time_in_fridge_days,bake_day_sit_time_hours,bake_day_sit_method,bake_day_reball,result_texture,result_overall
-1,3,4,room temp,no,chewy/tough,6
-1,4,3,room temp,no,chewy,6
-3,3,2,room temp,no,airy,8
-1,3,2,oven_light,no,dense,5
-2.45,2,4.5,room temp,no,fluffy/cripsy/airy,8
+rest_time_before_fridge_hours,time_in_fridge_days,bake_day_sit_time_hours,bake_day_sit_method,result_texture,result_overall
+1,3,4,room temp,chewy/tough,6
+1,4,3,room temp,chewy,6
+3,3,2,room temp,airy,8
+1,3,2,oven_light,dense,5
+2.45,2,4.5,room temp,fluffy/cripsy/airy,8
