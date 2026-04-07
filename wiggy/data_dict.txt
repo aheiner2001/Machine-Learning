@@ -1,0 +1,14 @@
+
+
+# Cars (Total): The total number of vehicles serviced during the time interval. (Integer)
+# Cars (Extra): Number of vehicles that purchased an additional service or "add-on." (Integer)
+$ Sales (Base): Revenue generated from the standard or base service price. (Currency)
+$ Sales (Ext/Car): Extra per Car; the average upsell revenue generated per vehicle. (Currency)
+$ Sales (Extra): Total revenue generated specifically from add-on services or upgrades. (Currency)
+# Cars (Inv): Invoiced Cars; vehicles processed via commercial accounts or fleet billing. (Integer)
+% Cars (Extra): Capture Rate; the percentage of total customers who purchased an upgrade. (Percentage)
+$ Sales (Inv): Invoiced Sales; revenue associated with billed accounts or specialized "Inv" counts. (Currency)
+$ Sales (Total): The gross revenue for the interval (Base + Extra + Inv). (Currency)
+$ Sales (Total/Car): Ticket Average; the average total value of a single vehicle visit. (Currency)
+Time Interval: The day of the week or specific date range for the data row. (String)
+Location: The unique identifier for the specific site or store. (String)
