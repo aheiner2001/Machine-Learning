@@ -1,7 +1,4 @@
 ﻿Text30,Text40,Text8,Text37,Text49,Text38,Text33,Text31,Text13,Text24,Text43,Text35,Text34,Text36
-Detailed,,,,,,,,,,,,,
-Time Interval,,                 # Cars                 (Total)               ,                 $ Sales                 (Total)               ,,                 $ Sales                 (Total/Car)               ,                 $ Sales                 (Base)               ,                 # Cars                 (Extra)               ,                 $ Sales                 (Extra)               ,                 $ Sales                 (Ext/Car)               ,,                 % Cars                 (Extra)               ,                 # Cars                 (Inv)               ,                 $ Sales                 (Inv)               
-Location:UT0032,,,,,,,,,,,,,
 09/01/2025,,,,,,,,,,,,,
 00:00 - 00:59 am,0,,0.00,0.00,,0.00,0,0.00,,0.00,0,0,0.00
 01:00 - 01:59 am,0,,0.00,0.00,,0.00,0,0.00,,0.00,0,0,0.00
